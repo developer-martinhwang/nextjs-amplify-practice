@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjsamplifypractic-dev-205913-authRole",
+      "UnauthRoleArn": "arn:aws:iam::679366254716:role/amplify-nextjsamplifypractic-dev-205913-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::679366254716:role/amplify-nextjsamplifypractic-dev-205913-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nextjsamplifypractic-dev-205913-deployment",
+      "UnauthRoleName": "amplify-nextjsamplifypractic-dev-205913-unauthRole",
+      "StackName": "amplify-nextjsamplifypractic-dev-205913",
+      "StackId": "arn:aws:cloudformation:us-east-2:679366254716:stack/amplify-nextjsamplifypractic-dev-205913/46b32960-89d8-11eb-b283-069c988534ce",
+      "AmplifyAppId": "d3pfk6e5apbtu9"
+    }
+  }
+}
