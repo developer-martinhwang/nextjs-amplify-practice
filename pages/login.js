@@ -16,10 +16,14 @@ function login() {
     return(
         <div>
             <h1>login page</h1>
-            <Link href="/">Home</Link>
+            <Link href="/">
+                <button>
+                    Home    
+                </button>
+            </Link>
             {authState === AuthState.SignedIn && user ? (
                 <div>
-                    <div>Hello, {user.username}</div>
+                    <h2>Hello, {user.attributes.email}</h2>
                 </div>
             ) : (
             <div>
