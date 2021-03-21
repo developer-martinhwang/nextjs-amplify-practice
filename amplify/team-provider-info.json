@@ -10,6 +10,11 @@
       "StackName": "amplify-nextjsamplifypractic-dev-205913",
       "StackId": "arn:aws:cloudformation:us-east-2:679366254716:stack/amplify-nextjsamplifypractic-dev-205913/46b32960-89d8-11eb-b283-069c988534ce",
       "AmplifyAppId": "d3pfk6e5apbtu9"
+    },
+    "categories": {
+      "auth": {
+        "nextjsamplifypractic08fcd000": {}
+      }
     }
   }
 }

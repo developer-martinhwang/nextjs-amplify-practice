@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "nextjsamplifypractic08fcd000": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
